@@ -3,5 +3,6 @@
 Автоматизированное рабочее место (АРМ) агронома.
 Задача Коммивояжера
 #Код программ
-
+https://github.com/aramgushyan/creative -  Задача Коммивояжера
+https://github.com/aramgushyan/creative/tree/main/arm - АРМ агронома
 #Ссылка на видео
